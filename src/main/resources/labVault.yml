@@ -1,0 +1,9 @@
+spring:
+  cloud:
+    vault:
+      application-name: laboratory-vault
+      host: localhost
+      port: 8200
+      scheme: http
+      authentication: TOKEN
+      token: 7479e26e-1f34-11ee-be56-0242ac120002
